@@ -1,4 +1,4 @@
-Here’s a sample `README.md` file for your GitHub repository that includes instructions on how to run the code and check the benchmark data results.
+Here’s a `README.md` file for your GitHub repository that includes instructions on how to run the code and check the benchmark data results.
 
 ---
 
