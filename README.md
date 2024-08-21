@@ -49,19 +49,6 @@ To run the performance benchmarks:
 
    This will execute the benchmarks defined in the `InMemoryDataProcessorBenchmark` class and generate a detailed report.
 
-### 2. **Run Stress Test**
-
-To run the stress test:
-
-1. Open the project in your preferred IDE or editor.
-2. Build and run the stress test project:
-
-   ```bash
-   dotnet run -c Release
-   ```
-
-   This will execute the stress test defined in the `InMemoryDataProcessorStressTest` class.
-
 ## Checking Benchmark Results
 
 After running the benchmark:
